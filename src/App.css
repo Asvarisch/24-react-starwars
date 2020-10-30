@@ -1,0 +1,38 @@
+/*header*/
+header, footer {
+  background-color: rgba(60, 69, 67, 0.6);
+}
+
+header {
+  border-radius: 15px 15px 0 0;
+  font-size: 1rem;
+}
+
+header > h1 {
+  font-size: 2em;
+}
+
+.btn-danger {
+  background-color: rgba(204, 3, 35, 0.5);
+  font-size: 1em;
+  color: #d8c97b;
+}
+
+/*main*/
+
+.border {
+  border-radius: 0 0 15px 15px;
+  border-color: #d8c97b !important;
+}
+
+/*footer*/
+
+footer {
+  border-radius: 0 0 15px 15px;
+  height: 4em;
+}
+
+footer .btn {
+  font-size: 0.8em;
+}
+
